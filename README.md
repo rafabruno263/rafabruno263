@@ -1,7 +1,7 @@
 # Olá! Seja bem-vindo ao meu GitHub!
 ---
 ## **Rafael Bruno Braz Lopes**  
-## **Estudante de Programação Full Stack**
+**Estudante de Programação Full Stack**
 <!--
 **rafabruno263/rafabruno263** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
