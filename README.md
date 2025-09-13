@@ -2,6 +2,8 @@
 ---
 ### **Rafael Bruno Braz Lopes**  
 ### **Estudante de Programação Full Stack**
+
+![Imagem github](IMG_8339.JPG)
 <!--
 **rafabruno263/rafabruno263** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
